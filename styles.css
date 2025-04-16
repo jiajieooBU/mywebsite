@@ -1,0 +1,46 @@
+---
+title: "Contact"
+---
+
+Feel free to reach out to me through any of the following channels:
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+## Direct Contact
+- **Email**: [wjj.wujiajie.101@gmail.com](mailto:wjj.wujiajie.101@gmail.com)
+- **Phone**: +1 (302) 509-1321
+:::
+
+::: {.g-col-12 .g-col-md-6}
+## Professional Networks
+- **LinkedIn**: [linkedin.com/in/jiajie-wu-b71a311b6](https://linkedin.com/in/jiajie-wu-b71a311b6)
+- **GitHub**: [github.com/jiajieooBU](https://github.com/jiajieooBU)
+:::
+
+:::
+
+## Send Me a Message
+
+```{=html}
+<form action="https://formspree.io/f/yourformid" method="POST" class="contact-form">
+  <div class="form-group">
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name" required class="form-control">
+  </div>
+  
+  <div class="form-group">
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="_replyto" required class="form-control">
+  </div>
+  
+  <div class="form-group">
+    <label for="message">Message:</label>
+    <textarea id="message" name="message" rows="5" required class="form-control"></textarea>
+  </div>
+  
+  <button type="submit" class="btn btn-primary">Send Message</button>
+</form>
+```
+
+*Note: To make the contact form functional, you'll need to create a free account on [Formspree](https://formspree.io) and replace 'yourformid' with your actual form ID.*

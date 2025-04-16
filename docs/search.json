@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Below are selected academic projects showcasing my hands-on experience with data analytics and machine learning using tools such as PySpark, Pandas, Plotly, and Quarto."
+  },
+  {
+    "objectID": "projects.html#project-1-regression-modeling-on-employment-data",
+    "href": "projects.html#project-1-regression-modeling-on-employment-data",
+    "title": "Projects",
+    "section": "Project 1: Regression Modeling on Employment Data",
+    "text": "Project 1: Regression Modeling on Employment Data\nTools: PySpark, Pandas, Seaborn, EC2, GitHub\nObjective: Built and evaluated a linear regression model on job market data from the Lightcast dataset to predict salary outcomes.\n\nPerformed full feature engineering pipeline, including imputation, encoding, and vector assembly.\nTrained and evaluated a linear regression model with PySpark MLlib.\nInterpreted key metrics like RMSE, MAE, R² and assessed model quality with diagnostic plots.\nThe entire project was conducted on an AWS EC2 instance and version-controlled via GitHub.\n\nView on GitHub"
+  },
+  {
+    "objectID": "projects.html#project-2-insight-from-data-and-visualizations",
+    "href": "projects.html#project-2-insight-from-data-and-visualizations",
+    "title": "Projects",
+    "section": "Project 2: Insight from Data and Visualizations",
+    "text": "Project 2: Insight from Data and Visualizations\nTools: PySpark, Pandas, Plotly, EC2, GitHub\nObjective: This project focused on exploring and visualizing job market data from the Lightcast dataset, with a particular emphasis on how education levels and remote work settings influence salary outcomes.\n\nKey Tasks & Workflow:\n\nProcessed the raw dataset using PySpark and performed initial data cleaning and type casting.\nConverted Spark DataFrame into Pandas format for flexible visualization.\nUsed group-based median imputation to fill missing salary data.\nCreated separate scatter plots and histograms to reveal trends by education and remote work type.\n\n\n\nVisual Assets:\n\nEducation vs Salary\nClear separation in average salaries was observed between job seekers holding Bachelor’s or lower degrees and those with Master’s or PhDs.\n\nBachelor’s or LowerMaster’s or PhDSalary Distribution\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRemote Work vs Salary\nOnsite jobs showed greater variation in salaries across experience levels compared to remote or hybrid roles.\n\nRemote WorkersOnsite WorkersSalary Histogram\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOutcome:\nThrough this visualization-based analysis, I developed a deeper understanding of how categorical features like education and work type can be used to segment salary expectations and communicate job market patterns. Each plot was accompanied by Markdown-based narrative insights and deployed to GitHub with organized HTML output.\nView on GitHub"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Below is a brief summary of my educational background and professional experiences. A downloadable full PDF version of my résumé is also available:\nDownload My Resume (PDF)"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n\nBoston University (MET)\nMaster of Science in Applied Business Analytics\nExpected Graduation: 2025\n\n\nUniversity of Delaware\nBachelor of Science in Marketing\nGraduated: August 2023"
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "Curriculum Vitae",
+    "section": "Experience",
+    "text": "Experience\n\nMarketing Specialist – North Latitude Global LLC\nHouston, TX | Jan 2024 – Present\n\nServe as a liaison between the company and external partners, managing B2B and B2C communication for a Bitcoin mining hardware repair and resale business.\nCoordinate customer onboarding, order processing, and shipment tracking, ensuring successful delivery of repaired or resold mining machines.\nManage warehouse inventory and workflow, including tracking component availability and repair throughput.\nInternally oversee shipment quality and efficiency from the repair department to maintain fast turnaround and uphold service standards.\nWeekly managed transactions exceeding $50,000 in parts, devices, and service-based sales, reflecting strong operational trust and volume exposure.\n\n\n\nOperation Coordinator – General Merchandise and SVCS LLC\nDelaware, USA | Dec 2023 – Feb 2024\n\nOversaw logistics processes and optimized delivery systems for warehouse operations.\nRefined inventory and quality control processes to increase fulfillment accuracy.\nTracked team KPIs using analytical tools and coordinated delivery schedules.\n\n\n\nBusiness Analyst Intern – PwC Shanghai\nShanghai, China | Dec 2022 – Jan 2023\n\nAnalyzed financial risks and generated dashboards for food industry subsidiaries.\nProposed liquidity risk solutions and supported their rollout into business systems.\nCo-drafted internal consulting reports and contributed to client presentations.\n\n\n\nMarketing & Shipping Intern – Ocean Shipping Company\nNew York, USA | Jan 2022 – Mar 2022\n\nManaged shipping documentation and supported international customs declarations.\nAnalyzed market positioning and promoted global freight services."
+  },
+  {
+    "objectID": "cv.html#academic-projects",
+    "href": "cv.html#academic-projects",
+    "title": "Curriculum Vitae",
+    "section": "Academic Projects",
+    "text": "Academic Projects\n\nMarket and User Analysis of Blizzard\n\nConducted in-depth market research and surveys focused on Blizzard’s strategic challenges.\nProposed actionable recommendations based on primary user data and market trends.\n\n\n\nConsulting Project for Sesh (Cancer Treatment Startup)\n\nDelivered a comprehensive 20-page market entry report targeting China’s healthcare market.\nAdvised on brand localization and market strategy, which was later implemented by the client."
+  },
+  {
+    "objectID": "cv.html#skills-tools",
+    "href": "cv.html#skills-tools",
+    "title": "Curriculum Vitae",
+    "section": "Skills & Tools",
+    "text": "Skills & Tools\n\nLanguages: English, Mandarin, Cantonese\nTools: R, Excel, GitHub, VS Code, Tableau\nInterests: Data Storytelling, Visualization, Strategic Analysis, Extreme Sports"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hi! I’m currently a graduate student at Boston University, pursuing my Master’s degree in Applied Business Analytics. My academic and professional journey is driven by a deep interest in turning data into strategic business decisions."
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "About Me",
+    "section": "",
+    "text": "Hi! I’m currently a graduate student at Boston University, pursuing my Master’s degree in Applied Business Analytics. My academic and professional journey is driven by a deep interest in turning data into strategic business decisions."
+  },
+  {
+    "objectID": "about.html#career-goals",
+    "href": "about.html#career-goals",
+    "title": "About Me",
+    "section": "Career Goals",
+    "text": "Career Goals\nI aspire to become a Business Analyst who can bridge the gap between data and decision-making. My goal is to work in a data-driven company where I can leverage analytics to optimize business operations, improve customer experiences, and uncover hidden patterns that drive growth. I’m particularly passionate about industries like technology, logistics, and e-commerce, where analytical thinking creates a direct impact."
+  },
+  {
+    "objectID": "about.html#technical-proficiency",
+    "href": "about.html#technical-proficiency",
+    "title": "About Me",
+    "section": "Technical Proficiency",
+    "text": "Technical Proficiency\nHere’s a self-assessment of the tools I frequently use:\n\nRStudio: 4/5\nExcel: 4/5\nVisual Studio Code: 3/5\nTableau: 2/5\nGitHub: 2/5\nGoogle Colab: 2/5\n\nI firmly believe in learning by doing—every project teaches me something new. For me, learning ability is not just a skill, but the core measure of productivity."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Feel free to reach out to me through any of the following channels:"
+  },
+  {
+    "objectID": "contact.html#direct-contact",
+    "href": "contact.html#direct-contact",
+    "title": "Contact",
+    "section": "Direct Contact",
+    "text": "Direct Contact\n\nEmail: wjj.wujiajie.101@gmail.com\nPhone: +1 (302) 509-1321"
+  },
+  {
+    "objectID": "contact.html#professional-networks",
+    "href": "contact.html#professional-networks",
+    "title": "Contact",
+    "section": "Professional Networks",
+    "text": "Professional Networks\n\nLinkedIn: linkedin.com/in/jiajie-wu-b71a311b6\nGitHub: github.com/jiajieooBU"
+  },
+  {
+    "objectID": "contact.html#contact-me",
+    "href": "contact.html#contact-me",
+    "title": "Contact",
+    "section": "Contact Me",
+    "text": "Contact Me\nFor professional inquiries, you can email me directly at wjj.wujiajie.101@gmail.com with the following information:\n\nYour name\nYour contact information\nThe purpose of your inquiry\nAny relevant details about your project or opportunity\n\nI typically respond to all messages within 24-48 hours."
+  },
+  {
+    "objectID": "contact.html#connect-on-linkedin",
+    "href": "contact.html#connect-on-linkedin",
+    "title": "Contact",
+    "section": "Connect on LinkedIn",
+    "text": "Connect on LinkedIn\nThe fastest way to connect professionally is through my LinkedIn profile. Feel free to send a connection request with a brief introduction.\n\n  \n     Send Email\n  \n  \n     Connect on LinkedIn\n  \n  \n     Follow on GitHub"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jiajie Wu",
+    "section": "",
+    "text": "Welcome to My Portfolio\nI’m a master student at Boston University specializing in Applied Business Analytics. This website showcases my professional background, projects, and skills.\nLearn more about me View my projects"
+  }
+]

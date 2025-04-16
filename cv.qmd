@@ -1,0 +1,64 @@
+---
+title: "Curriculum Vitae"
+---
+
+Below is a brief summary of my educational background and professional experiences. A downloadable full PDF version of my résumé is also available:
+
+[Download My Resume (PDF)](assets/Jiajie_Wu_Resume.pdf){.btn .btn-primary}
+
+## Education
+
+### Boston University (MET)
+**Master of Science in Applied Business Analytics**  
+*Expected Graduation: 2025*
+
+### University of Delaware
+**Bachelor of Science in Marketing**  
+*Graduated: August 2023*
+
+## Experience
+
+### Marketing Specialist – North Latitude Global LLC
+**Houston, TX | Jan 2024 – Present**
+
+- Serve as a liaison between the company and external partners, managing B2B and B2C communication for a Bitcoin mining hardware repair and resale business.
+- Coordinate customer onboarding, order processing, and shipment tracking, ensuring successful delivery of repaired or resold mining machines.
+- Manage warehouse inventory and workflow, including tracking component availability and repair throughput.
+- Internally oversee shipment quality and efficiency from the repair department to maintain fast turnaround and uphold service standards.
+- Weekly managed transactions exceeding $50,000 in parts, devices, and service-based sales, reflecting strong operational trust and volume exposure.
+
+### Operation Coordinator – General Merchandise and SVCS LLC
+**Delaware, USA | Dec 2023 – Feb 2024**
+
+- Oversaw logistics processes and optimized delivery systems for warehouse operations.
+- Refined inventory and quality control processes to increase fulfillment accuracy.
+- Tracked team KPIs using analytical tools and coordinated delivery schedules.
+
+### Business Analyst Intern – PwC Shanghai
+**Shanghai, China | Dec 2022 – Jan 2023**
+
+- Analyzed financial risks and generated dashboards for food industry subsidiaries.
+- Proposed liquidity risk solutions and supported their rollout into business systems.
+- Co-drafted internal consulting reports and contributed to client presentations.
+
+### Marketing & Shipping Intern – Ocean Shipping Company
+**New York, USA | Jan 2022 – Mar 2022**
+
+- Managed shipping documentation and supported international customs declarations.
+- Analyzed market positioning and promoted global freight services.
+
+## Academic Projects
+
+### Market and User Analysis of Blizzard
+- Conducted in-depth market research and surveys focused on Blizzard's strategic challenges.
+- Proposed actionable recommendations based on primary user data and market trends.
+
+### Consulting Project for Sesh (Cancer Treatment Startup)
+- Delivered a comprehensive 20-page market entry report targeting China's healthcare market.
+- Advised on brand localization and market strategy, which was later implemented by the client.
+
+## Skills & Tools
+
+- **Languages**: English, Mandarin, Cantonese
+- **Tools**: R, Excel, GitHub, VS Code, Tableau
+- **Interests**: Data Storytelling, Visualization, Strategic Analysis, Extreme Sports

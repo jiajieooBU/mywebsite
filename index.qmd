@@ -1,0 +1,12 @@
+---
+title: "Jiajie Wu"
+subtitle: "Data Analytics Professional"
+page-layout: full
+---
+
+# Welcome to My Portfolio
+
+I'm a master student at Boston University specializing in Applied Business Analytics. This website showcases my professional background, projects, and skills.
+
+
+[Learn more about me](about.qmd){.btn .btn-primary} [View my projects](projects.qmd){.btn .btn-secondary}

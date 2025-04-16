@@ -1,0 +1,24 @@
+---
+title: "About Me"
+---
+
+## About Me
+
+Hi! I'm currently a graduate student at **Boston University**, pursuing my Master's degree in **Applied Business Analytics**. My academic and professional journey is driven by a deep interest in turning data into strategic business decisions.
+
+## Career Goals
+
+I aspire to become a **Business Analyst** who can bridge the gap between data and decision-making. My goal is to work in a data-driven company where I can leverage analytics to optimize business operations, improve customer experiences, and uncover hidden patterns that drive growth. I'm particularly passionate about industries like **technology**, **logistics**, and **e-commerce**, where analytical thinking creates a direct impact.
+
+## Technical Proficiency
+
+Here's a self-assessment of the tools I frequently use:
+
+- **RStudio**: 4/5
+- **Excel**: 4/5
+- **Visual Studio Code**: 3/5
+- **Tableau**: 2/5
+- **GitHub**: 2/5
+- **Google Colab**: 2/5
+
+I firmly believe in *learning by doing*—every project teaches me something new. For me, learning ability is not just a skill, but the core measure of productivity.

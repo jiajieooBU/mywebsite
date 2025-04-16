@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Jiajie Wu"
+  navbar:
+    left:
+      - text: "About You"
+        href: about.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Contact"
+        href: contact.qmd
+  page-footer:
+    center: 
+      - text: "© 2025 Jiajie Wu. All rights reserved."
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

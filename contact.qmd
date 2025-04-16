@@ -1,0 +1,50 @@
+---
+title: "Contact"
+---
+
+Feel free to reach out to me through any of the following channels:
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+## Direct Contact
+- **Email**: [wjj.wujiajie.101@gmail.com](mailto:wjj.wujiajie.101@gmail.com)
+- **Phone**: +1 (302) 509-1321
+:::
+
+::: {.g-col-12 .g-col-md-6}
+## Professional Networks
+- **LinkedIn**: [linkedin.com/in/jiajie-wu-b71a311b6](https://linkedin.com/in/jiajie-wu-b71a311b6)
+- **GitHub**: [github.com/jiajieooBU](https://github.com/jiajieooBU)
+:::
+
+:::
+
+## Contact Me
+
+For professional inquiries, you can email me directly at [wjj.wujiajie.101@gmail.com](mailto:wjj.wujiajie.101@gmail.com) with the following information:
+
+- Your name
+- Your contact information
+- The purpose of your inquiry
+- Any relevant details about your project or opportunity
+
+I typically respond to all messages within 24-48 hours.
+
+## Connect on LinkedIn
+
+The fastest way to connect professionally is through my [LinkedIn profile](https://linkedin.com/in/jiajie-wu-b71a311b6). Feel free to send a connection request with a brief introduction.
+
+```{=html}
+<div class="contact-links">
+  <a href="mailto:wjj.wujiajie.101@gmail.com" class="btn btn-primary">
+    <i class="bi bi-envelope-fill"></i> Send Email
+  </a>
+  <a href="https://linkedin.com/in/jiajie-wu-b71a311b6" class="btn btn-secondary">
+    <i class="bi bi-linkedin"></i> Connect on LinkedIn
+  </a>
+  <a href="https://github.com/jiajieooBU" class="btn btn-dark">
+    <i class="bi bi-github"></i> Follow on GitHub
+  </a>
+</div>
+```

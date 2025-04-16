@@ -1,0 +1,80 @@
+---
+title: "Projects"
+---
+
+Below are selected academic projects showcasing my hands-on experience with data analytics and machine learning using tools such as PySpark, Pandas, Plotly, and Quarto.
+
+## Project 1: Regression Modeling on Employment Data
+
+**Tools**: PySpark, Pandas, Seaborn, EC2, GitHub  
+**Objective**: Built and evaluated a linear regression model on job market data from the Lightcast dataset to predict salary outcomes.
+
+- Performed full feature engineering pipeline, including imputation, encoding, and vector assembly.
+- Trained and evaluated a linear regression model with PySpark MLlib.
+- Interpreted key metrics like RMSE, MAE, R² and assessed model quality with diagnostic plots.
+- The entire project was conducted on an AWS EC2 instance and version-controlled via GitHub.
+
+[View on GitHub](https://github.com/met-ad-688/lab07-jiajieooBU)
+
+
+## Project 2: Insight from Data and Visualizations
+
+**Tools**: PySpark, Pandas, Plotly, EC2, GitHub  
+**Objective**: This project focused on exploring and visualizing job market data from the Lightcast dataset, with a particular emphasis on how education levels and remote work settings influence salary outcomes.
+
+### Key Tasks & Workflow:
+- Processed the raw dataset using PySpark and performed initial data cleaning and type casting.
+- Converted Spark DataFrame into Pandas format for flexible visualization.
+- Used group-based median imputation to fill missing salary data.
+- Created separate scatter plots and histograms to reveal trends by education and remote work type.
+
+### Visual Assets:
+
+#### Education vs Salary
+Clear separation in average salaries was observed between job seekers holding Bachelor's or lower degrees and those with Master's or PhDs.
+
+::: {.panel-tabset}
+
+## Bachelor's or Lower
+```{=html}
+<iframe src="assets/q3_bachelors_or_lower_scatter.html" width="100%" height="500px" style="border:none;"></iframe>
+```
+
+## Master's or PhD
+```{=html}
+<iframe src="assets/q3_masters_or_phd_scatter.html" width="100%" height="500px" style="border:none;"></iframe>
+```
+
+## Salary Distribution
+```{=html}
+<iframe src="assets/q3_SALARY_distribution.html" width="100%" height="500px" style="border:none;"></iframe>
+```
+
+:::
+
+#### Remote Work vs Salary
+Onsite jobs showed greater variation in salaries across experience levels compared to remote or hybrid roles.
+
+::: {.panel-tabset}
+
+## Remote Workers
+```{=html}
+<iframe src="assets/q4_remote_scatter.html" width="100%" height="500px" style="border:none;"></iframe>
+```
+
+## Onsite Workers
+```{=html}
+<iframe src="assets/q4_onsite_scatter.html" width="100%" height="500px" style="border:none;"></iframe>
+```
+
+## Salary Histogram
+```{=html}
+<iframe src="assets/q4_remote_SALARY_hist.html" width="100%" height="500px" style="border:none;"></iframe>
+```
+
+:::
+
+### Outcome:
+Through this visualization-based analysis, I developed a deeper understanding of how categorical features like education and work type can be used to segment salary expectations and communicate job market patterns. Each plot was accompanied by Markdown-based narrative insights and deployed to GitHub with organized HTML output.
+
+[View on GitHub](https://github.com/met-ad-688/lab08-jiajieooBU)
