@@ -14,7 +14,7 @@ Below are selected academic projects showcasing my hands-on experience with data
 - Interpreted key metrics like RMSE, MAE, R² and assessed model quality with diagnostic plots.
 - The entire project was conducted on an AWS EC2 instance and version-controlled via GitHub.
 
-[View on GitHub](https://github.com/met-ad-688/lab07-jiajieooBU)
+[View on GitHub](https://github.com/met-ad-688/lab08-jiajieooBU)
 
 
 ## Project 2: Insight from Data and Visualizations
@@ -77,4 +77,4 @@ Onsite jobs showed greater variation in salaries across experience levels compar
 ### Outcome:
 Through this visualization-based analysis, I developed a deeper understanding of how categorical features like education and work type can be used to segment salary expectations and communicate job market patterns. Each plot was accompanied by Markdown-based narrative insights and deployed to GitHub with organized HTML output.
 
-[View on GitHub](https://github.com/met-ad-688/lab08-jiajieooBU)
+[View on GitHub](https://github.com/met-ad-688/lab07-jiajieooBU)
